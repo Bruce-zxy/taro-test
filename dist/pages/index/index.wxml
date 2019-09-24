@@ -1,0 +1,5 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="index">
+        <at-grid compid="{{$compid__31}}"></at-grid>
+    </view>
+</block>
